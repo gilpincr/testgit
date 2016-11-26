@@ -27,7 +27,7 @@ namespace TestGitAlonso
             int res = 0;
             int i_num1;
             int i_num2;
-            string ope = "+";
+            string ope = "*";
 
             try
             {
@@ -42,7 +42,7 @@ namespace TestGitAlonso
 
             lblOpe.Text = ope;
 
-            res = i_num1 + i_num2;
+            res = i_num1 * i_num2;
         
 
             return res;

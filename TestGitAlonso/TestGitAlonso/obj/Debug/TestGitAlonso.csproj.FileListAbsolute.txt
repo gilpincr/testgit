@@ -7,3 +7,6 @@ c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlons
 c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.csproj.GenerateResource.Cache
 c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.exe
 c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.pdb
+C:\Users\max\alonso\testgit\TestGitAlonso\TestGitAlonso\bin\Debug\TestGitAlonso.exe.config
+C:\Users\max\alonso\testgit\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.exe
+C:\Users\max\alonso\testgit\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.pdb
