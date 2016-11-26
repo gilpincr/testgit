@@ -1,0 +1,9 @@
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\bin\Debug\TestGitAlonso.exe.config
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\bin\Debug\TestGitAlonso.exe
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\bin\Debug\TestGitAlonso.pdb
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.csprojResolveAssemblyReference.cache
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.Form1.resources
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.Properties.Resources.resources
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.csproj.GenerateResource.Cache
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.exe
+c:\users\alonso\documents\visual studio 2013\Projects\TestGitAlonso\TestGitAlonso\obj\Debug\TestGitAlonso.pdb
